@@ -1,1 +1,1 @@
-fixed the fucking download bug on windows with shutil
+fixed the annoying download bug on windows with shutil
